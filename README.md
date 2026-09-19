@@ -26,5 +26,6 @@ you can always contact me at: <br> -->
 <p align="center">
   <a href="mailto:markgamalm@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/markgamal/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://leetcode.com/u/markgm/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" alt="LeetCode Badge"/></a>
   <a href="https://www.hackerrank.com/MarkGM"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="hackerrank"/></a>
 </p>
